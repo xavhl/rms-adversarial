@@ -1,0 +1,6 @@
+[2022-06-26 03:15:01 PM-uap_sgd.py-INFO:2022-06-26 15:15:01.517117 | Epoch:  1 Accuracy:0.72684 | uap: min=-0.07843 max=0.00000 mean=-0.03931]
+[2022-06-26 03:20:13 PM-uap_sgd.py-INFO:2022-06-26 15:20:13.391959 | Epoch:  2 Accuracy:0.72592 | uap: min=-0.07843 max=0.00000 mean=-0.03934]
+[2022-06-26 03:25:35 PM-uap_sgd.py-INFO:2022-06-26 15:25:35.774614 | Epoch:  3 Accuracy:0.72622 | uap: min=-0.07843 max=0.00000 mean=-0.03921]
+[2022-06-26 03:30:58 PM-uap_sgd.py-INFO:2022-06-26 15:30:58.664518 | Epoch:  4 Accuracy:0.72518 | uap: min=-0.07843 max=0.00000 mean=-0.03925]
+[2022-06-26 03:36:23 PM-uap_sgd.py-INFO:2022-06-26 15:36:23.363913 | Epoch:  5 Accuracy:0.72386 | uap: min=-0.07843 max=0.00000 mean=-0.03925]
+[2022-06-26 03:41:49 PM-uap_sgd.py-INFO:2022-06-26 15:41:49.972406 | Epoch:  6 Accuracy:0.72614 | uap: min=-0.07843 max=0.00000 mean=-0.03928]
