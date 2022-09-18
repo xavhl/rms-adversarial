@@ -83,7 +83,8 @@ def uap_sgd(model, loader, nb_epoch, eps, beta = 12, step_decay = 0.8, y_target 
             # batch update
             grad_sign = batch_delta.grad.data.mean(dim = 0).sign()
             delta = delta + grad_sign * eps_step
-            # delta = torch.clamp(delta, -eps, eps)
+            
+            # delta = torch.clamp(delta, -eps, eps) # original 
             delta = torch.clamp(delta, -eps, 0) # only allow negative perturbation for darker colors
             batch_delta.grad.data.zero_()
     
